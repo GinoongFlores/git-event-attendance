@@ -19,9 +19,7 @@
 
 ## Follow this Format ⬇️
 
-### [Christian Paul H. Flores](https://facebook.com/christianpaulh.flores/)
-### [Christian Flores](https://facebook.com/christianpaulh.flores/)
-
+### [Christian Paul H. Flores](https://github.com/GinoongFlores)
 
 
 
