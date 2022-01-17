@@ -21,7 +21,6 @@
 
 ### [Christian Paul H. Flores](https://facebook.com/christianpaulh.flores/)
 ### [Christian Flores](https://facebook.com/christianpaulh.flores/)
-### [Your Name](https://facebook.com/christianpaulh.flores/)
 
 
 
