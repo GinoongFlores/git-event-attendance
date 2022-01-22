@@ -20,10 +20,7 @@
 ## Follow this Format ⬇️
 
 ### [Christian Paul H. Flores](https://github.com/GinoongFlores)
-### [Your Name](https://github.com/GinoongFlores)
-### [Example](https://github.com/GinoongFlores)
-### [Juan dela Cruz](https://github.com/GinoongFlores)
-
+### [John Felix Marc Balabat](https://github.com/marco036)
 
 
 
