@@ -19,8 +19,9 @@
 
 ## Follow this Format ⬇️
 
+### [Christian Paul H. Flores](https://github.com/GinoongFlores)
 ### [Anakin Skywalker Pactores](https://github.com/apactores)
-
+### [John Felix Marc Balabat](https://github.com/marco036)
 
 
 
