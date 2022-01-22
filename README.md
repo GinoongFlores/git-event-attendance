@@ -19,9 +19,7 @@
 
 ## Follow this Format ⬇️
 
-### [Christian Paul H. Flores](https://github.com/GinoongFlores)
-### [Your Name](https://github.com/GinoongFlores)
-### [Example](https://github.com/GinoongFlores)
+### [Anakin Skywalker Pactores](https://github.com/apactores)
 
 
 
