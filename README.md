@@ -9,9 +9,9 @@
 <img src="https://user-images.githubusercontent.com/63575947/148519439-852c7f87-7b00-4405-8ba5-3cdccc0de296.gif">
   </p>
 
-## List your names here and insert your GitHub link profile
 
 ## Follow this Format and insert your name here ⬇️
+> List your names here and insert your GitHub link profile
 
 ### [Christian Paul H. Flores](https://github.com/GinoongFlores)
 
